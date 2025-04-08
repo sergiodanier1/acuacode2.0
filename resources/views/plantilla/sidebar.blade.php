@@ -10,10 +10,10 @@
         </a>
         <ul class="nav-second-level" aria-expanded="false">
             <li>
-                <a href="index.html">Dashboard 1</a>
+                <a href="index.html">Sensores</a>
             </li>
             <li>
-                <a href="dashboard-2.html">Dashboard 2</a>
+                <a href="dashboard-2.html">Detalles sensor</a>
             </li>
         </ul>
     </li>
@@ -21,18 +21,15 @@
     <li>
         <a href="javascript: void(0);">
             <i class="la la-cube"></i>
-            <span> Apps </span>
+            <span> Históricos </span>
             <span class="menu-arrow"></span>
         </a>
         <ul class="nav-second-level" aria-expanded="false">
             <li>
-                <a href="apps-calendar.html">Calendar</a>
+                <a href="apps-calendar.html">Seleccionar sensor</a>
             </li>
             <li>
-                <a href="apps-contacts.html">Contacts</a>
-            </li>
-            <li>
-                <a href="apps-tickets.html">Tickets</a>
+                <a href="apps-contacts.html">Visualizar</a>
             </li>
         </ul>
     </li>
