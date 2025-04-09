@@ -37,90 +37,57 @@
     <li>
         <a href="javascript: void(0);">
             <i class="la la-clone"></i>
-            <span> Layouts </span>
+            <span> Control </span>
             <span class="menu-arrow"></span>
         </a>
         <ul class="nav-second-level" aria-expanded="false">
             <li>
-                <a href="layouts-sidebar-sm.html">Small Sidebar</a>
+                <a href="layouts-sidebar-sm.html">Activacion de bombas</a>
             </li>
             <li>
-                <a href="layouts-light-sidebar.html">Light Sidebar</a>
+                <a href="layouts-light-sidebar.html">Encerde luces</a>
             </li>
             <li>
-                <a href="layouts-dark-topbar.html">Dark Topbar</a>
+                <a href="layouts-dark-topbar.html">ajustar válvulas</a>
             </li>
-            <li>
-                <a href="layouts-preloader.html">Preloader</a>
-            </li>
-            <li>
-                <a href="layouts-sidebar-collapsed.html">Sidebar Collapsed</a>
-            </li>
-            <li>
-                <a href="layouts-boxed.html">Boxed</a>
-            </li>
+            
         </ul>
     </li>
 
     <li>
         <a href="javascript: void(0);">
             <i class="la la-envelope"></i>
-            <span> Email </span>
+            <span> Alertas </span>
             <span class="menu-arrow"></span>
         </a>
         <ul class="nav-second-level" aria-expanded="false">
             <li>
-                <a href="email-inbox.html">Inbox</a>
+                <a href="email-inbox.html">Alertas activas</a>
             </li>
             <li>
-                <a href="email-read.html">Read Email</a>
+                <a href="email-read.html">Historial alertas</a>
             </li>
-            <li>
-                <a href="email-compose.html">Compose Email</a>
-            </li>
-            <li>
-                <a href="email-templates.html">Email Templates</a>
-            </li>
+            
         </ul>
     </li>
 
     <li>
         <a href="javascript: void(0);">
             <i class="la la-file-text-o"></i>
-            <span> Pages </span>
+            <span> Gestión de usuarios </span>
             <span class="menu-arrow"></span>
         </a>
         <ul class="nav-second-level" aria-expanded="false">
             <li>
-                <a href="pages-starter.html">Starter</a>
+                <a href="pages-starter.html">Lista de usuarios</a>
             </li>
             <li>
-                <a href="pages-login.html">Log In</a>
+                <a href="pages-login.html">Crear usuario</a>
             </li>
             <li>
-                <a href="pages-register.html">Register</a>
+                <a href="pages-register.html">Editar / Eliminar usuario</a>
             </li>
-            <li>
-                <a href="pages-recoverpw.html">Recover Password</a>
-            </li>
-            <li>
-                <a href="pages-lock-screen.html">Lock Screen</a>
-            </li>
-            <li>
-                <a href="pages-logout.html">Logout</a>
-            </li>
-            <li>
-                <a href="pages-confirm-mail.html">Confirm Mail</a>
-            </li>
-            <li>
-                <a href="pages-404.html">Error 404</a>
-            </li>
-            <li>
-                <a href="pages-404-alt.html">Error 404-alt</a>
-            </li>
-            <li>
-                <a href="pages-500.html">Error 500</a>
-            </li>
+            
         </ul>
     </li>
 
